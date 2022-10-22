@@ -12,3 +12,5 @@
   - Use the desired operating system.
   - Checkout the repository.
   - Deploy executing the following command -> ```vercel -t``` with VERCEL_TOKEN secret.
+
+Vercel project URL -> https://cloud-laboratory-automation-vercel.vercel.app/
